@@ -6,7 +6,6 @@
 
 
 ## About Me:
-
 I am studying Frontend development. I want to become a specialist in this field.
 There is an opportunity to change my life, and I will not miss it.
 I started studying on my own in January of this year. To test my knowledge, I decided to take courses.
@@ -16,7 +15,6 @@ I want to be a competent employee of the company that will accept me.
  
  
 ## Key skills:
-
  * HTML
  * CSS
  * Git
