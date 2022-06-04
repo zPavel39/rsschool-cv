@@ -3,8 +3,6 @@
    * [My_Telergam](https://t.me/PavelGolubev39rus)
    * Discord: nickname: Pavel39(@Pavel39)
    *  tell.+79110708688 
-
-
 ## About Me:
 I am studying Frontend development. I want to become a specialist in this field.
 There is an opportunity to change my life, and I will not miss it.
@@ -12,8 +10,6 @@ I started studying on my own in January of this year. To test my knowledge, I de
 At the moment I am taking 2 courses at the same time. I hope that extensive and time-consuming work will bear fruit.
 ***I am purposeful, self-study and learning in general are easy.*** I was familiar with programming from school and then at the institute.
 I want to be a competent employee of the company that will accept me.
- 
- 
 ## Key skills:
  * HTML
  * CSS
