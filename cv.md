@@ -1,11 +1,13 @@
 # Pavel Golubev 
 ## Contact:
+
    * [My_Telergam](https://t.me/PavelGolubev39rus)
    * Discord: nickname: Pavel39(@Pavel39)
    *  tell.+79110708688
  
  
  ## About Me:
+ 
  I am studying Frontend development. I want to become a specialist in this field.
  There is an opportunity to change my life, and I will not miss it.
  I started studying on my own in January of this year. To test my knowledge, I decided to take courses.
@@ -37,12 +39,15 @@ function removeChar(str){
 [MyFirstProject](https://obrabotka39kld.ru/)
 
 ## Education
+
 ### 2018 year:
 Kaliningrad State Technical University, Kaliningrad
 Faculty of Automation and Production Management, Applied Computer Science. bachelor
+
 ### 2022 year:
 Course: [Frontend Development Basics (Innopolis University)](https://innopolis.university/)
 
 
 ## English
+
 A1-A2 (*After obtaining a profession I plan to continue studying it*)
