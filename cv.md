@@ -26,19 +26,13 @@ function removeChar(str){
     }
   };
 ```
-
-
 ## My first project for my friend, asked me to make a regular website (without JS)
 [MyFirstProject](https://obrabotka39kld.ru/)
-
-
 ## Education
 ### 2018 year:
 Kaliningrad State Technical University, Kaliningrad
 Faculty of Automation and Production Management, Applied Computer Science. bachelor
 ### 2022 year:
 Course: [Frontend Development Basics (Innopolis University)](https://innopolis.university/)
-
-
 ## English
 A1-A2 (*After obtaining a profession I plan to continue studying it*)
