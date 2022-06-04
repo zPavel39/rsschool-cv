@@ -4,6 +4,7 @@
    * Discord: nickname: Pavel39(@Pavel39)
    *  tell.+79110708688
  ___
+ 
  ## About Me:
  I am studying Frontend development. I want to become a specialist in this field.
  There is an opportunity to change my life, and I will not miss it.
@@ -12,6 +13,7 @@
  ***I am purposeful, self-study and learning in general are easy.*** I was familiar with programming from school and then at the institute.
  I want to be a competent employee of the company that will accept me.
  ___
+ 
  ## Key skills:
  * HTML
  * CSS
@@ -19,6 +21,7 @@
  * JavaScript
  * Sass
 ___
+
 ```javascript
 function removeChar(str){
     if (str.length > 1) {
@@ -29,6 +32,7 @@ function removeChar(str){
   };
 ```
 ___
+
 ### My first project for my friend, asked me to make a regular website (without JS)
 [MyFirstProject](https://obrabotka39kld.ru/)
 ___
@@ -39,5 +43,6 @@ Faculty of Automation and Production Management, Applied Computer Science. bache
 ### 2022 year:
 Course: [Frontend Development Basics (Innopolis University)](https://innopolis.university/)
 ___
+
 ## English
 A1-A2 (*After obtaining a profession I plan to continue studying it*)
